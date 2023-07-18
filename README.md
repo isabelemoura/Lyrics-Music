@@ -1,7 +1,5 @@
 # Lyrics Music - Seu Portal de Letras Musicais
 
-![Lyrics Music Logo](https://example.com/lyrics_music_logo.png)
-
 Bem-vindo(a) ao Lyrics Music, o seu portal de letras musicais de músicas internacionais! Aqui você encontrará as letras de suas músicas favoritas para cantar e se emocionar. Explore as letras e compartilhe suas músicas preferidas com amigos e familiares.
 
 ## Navegação
@@ -23,13 +21,6 @@ A navegação no Lyrics Music é simples e intuitiva. Temos um menu que permite 
 
 O projeto Lyrics Music foi desenvolvido utilizando HTML e CSS para a estruturação e estilização da página. O conteúdo das letras está organizado em seções que facilitam a navegação e leitura. O design responsivo garante que o site seja acessível em diferentes dispositivos, como smartphones, tablets e computadores.
 
-## Capturas de Tela
-
-![Screenshot 1](https://example.com/screenshots/screenshot1.png)
-![Screenshot 2](https://example.com/screenshots/screenshot2.png)
-![Screenshot 3](https://example.com/screenshots/screenshot3.png)
-![Screenshot 4](https://example.com/screenshots/screenshot4.png)
-
 ## Como Executar o Projeto
 
 Para visualizar o projeto Lyrics Music localmente em seu computador, siga os passos abaixo:
@@ -43,6 +34,6 @@ Se você deseja contribuir para a melhoria do Lyrics Music, fique à vontade par
 
 ## Contato
 
-Em caso de dúvidas, sugestões ou feedback sobre o Lyrics Music, entre em contato conosco pelo e-mail contato@lyricsmusic.com ou abra uma [issue](https://github.com/seuusuario/lyrics-music/issues).
+Em caso de dúvidas, sugestões ou feedback sobre o Lyrics Music, abra uma [issue](https://github.com/seuusuario/lyrics-music/issues).
 
-Esperamos que você desfrute do Lyrics Music e que ele enriqueça suas experiências musicais! Solte a voz e divirta-se! 🎶🎤🎵
+Espero que você desfrute do Lyrics Music e que ele enriqueça suas experiências musicais! Solte a voz e divirta-se! 🎶🎤🎵
